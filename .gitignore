@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.env.local
+wallet/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Logs and editor files
+*.log
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
